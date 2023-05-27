@@ -1,7 +1,7 @@
 -  Hi, I’m Rahat Chowdhury Zisan
--  I’m interested in WEB Programming
--  I’m currently learning WEB Development
--  I’m looking to collaborate on React projects
+-  I’m interested in Software Testing & Quality Assurance
+-  I’m currently learning Quality Assurance & Automation Testing
+-  I’m looking forward to collaboration on Manual Testing projects
 -  How to reach me --> 
 -  Email : rczisan@gmail.com
 -  linkedIn : # https://linkedin.com/in/rahat-chowdhury-zisan/
