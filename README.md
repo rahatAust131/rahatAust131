@@ -4,7 +4,7 @@
 -  I’m looking forward to collaboration on Manual Testing projects
 -  How to reach me --> 
 -  Email : rczisan@gmail.com
--  linkedIn : # https://linkedin.com/in/rahat-chowdhury-zisan/
+-  linkedIn : #https://linkedin.com/in/rahat-chowdhury-zisan/
 
 
 <!---
